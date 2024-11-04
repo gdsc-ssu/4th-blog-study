@@ -10,3 +10,4 @@
 
 #### 11월 1주차
 - [해외봉사 가서 개발하기: 4시간 만에 만든 미니 도서관 전산시스템]() - 유진
+- [Spring Boot N+1 Problem](https://medium.com/@myggona/spring-boot-n-1-problem-552095bb43d7) - 환곤
