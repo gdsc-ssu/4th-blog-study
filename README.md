@@ -9,6 +9,7 @@
 ## 2024
 #### 11월 3주차 
 - [안드로이드 개발자의 Entity와 DTO에 대한 고찰](https://velog.io/@jini_1514/%EB%AA%A8%EB%B0%94%EC%9D%BC-%EC%95%B1-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-Entity%EC%99%80-DTO%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0) - 진
+- [[Spring] @OneToMany 리스트에 add 호출 시 NPE 발생](https://velog.io/@zzaeyon/Spring-OneToMany-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90-add-%ED%98%B8%EC%B6%9C-%EC%8B%9C-NPE-%EB%B0%9C%EC%83%9D) - 채연
 
 #### 11월 2주차
 - [[Elasticsearch] 한글 형태소 분석기 - Nori](https://velog.io/@zzaeyon/Elasticsearch-%ED%95%9C%EA%B8%80%ED%98%95%ED%83%9C%EC%86%8C%EB%B6%84%EC%84%9D%EA%B8%B0-Nori) - 채연
